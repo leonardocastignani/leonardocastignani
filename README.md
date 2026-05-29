@@ -79,9 +79,7 @@ Quando non scrivo codice, mi trovi a parlare di **macchine e moto** 🏎️🏍�
 ## 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardocastignani&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocastignani&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=leonardocastignani&theme=dark&hide_border=true&locale=it&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
