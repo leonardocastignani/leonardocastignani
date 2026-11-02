@@ -70,7 +70,7 @@ Quando non scrivo codice, mi trovi a parlare di **macchine e moto** 🏎️🏍�
 |----------|-------------|------------|
 | [**leonardocastignani.it**](https://github.com/leonardocastignani/leonardocastignani.it) | Portfolio personale moderno e responsivo, disponibile in italiano e inglese | Astro, Tailwind CSS |
 | [**HackHub**](https://github.com/leonardocastignani/HackHub) | Piattaforma per la gestione degli Hackathon | Java |
-| [**SubWallet**](https://github.com/leonardocastignani/SubWallet) | App per la gestione degli abbonamenti | Dart / Flutter |
+| [**JavArena-Dungeons**](https://github.com/leonardocastignani/JavArena-Dungeons) | RPG a turni con dungeon da esplorare | Java, JavaFX |
 | [**MerkleTree**](https://github.com/leonardocastignani/MerkleTree) | Implementazione di un Merkle Tree per l'integrità dei dati | Java |
 | [**Graphs & Data Structures**](https://github.com/leonardocastignani/Graphs-and-Data-Structures) | Strutture dati per grafi non orientati e algoritmo di Kruskal | Java |
 
